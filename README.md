@@ -47,12 +47,12 @@
 </p>
     
 <p align = "center"> 
- <a href="https://github.com/cupidbow20000?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=cupidbow20000&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/cupidbow20000?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=cupidbow20000&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@Cupid's github-readme-streak-stats"/></a>
- <a><img width="400" style="margin-right: 30px; width:35%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cupidbow20000&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" /></a>
- <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=cupidbow20000&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="63%" alt="activity graph"></a>
+ <a href="https://github.com/gimarai0603?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=gimarai0603&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Goblin's github-readme-stats"/></a>
+ <a href="https://github.com/gimarai0603?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=gimarai0603&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@Cupid's github-readme-streak-stats"/></a>
+ <a><img width="400" style="margin-right: 30px; width:35%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gimarai0603&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" /></a>
+ <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=gimarai0603&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="63%" alt="activity graph"></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=cupidbow20000&theme=onedark&row=1&column=9)
+![trophy](https://github-profile-trophy.vercel.app/?username=gimarai0603&theme=onedark&row=1&column=9)
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
